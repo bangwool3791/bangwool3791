@@ -13,8 +13,13 @@
 - 뇌를 자극하는 알고리즘 
 -뇌를 자극하는 운영체제
 
--Experienced language 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white">
+### -Experienced Language 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
+### -Hardware Handled
+<img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white">
+<img src="https://img.shields.io/badge/ARM-0091BD?style=flat&logo=Arm&logoColor=white"/>
+### -Experienced Tool
+
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
