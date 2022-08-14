@@ -1,4 +1,4 @@
-### Hi, Im GameEngine Developer Paul.👋
+### Hi, Im a Game Client Developer Paul.👋
 
 - 🌱 I’m currently learning as an engineer at a DirectX.
 - I'm learning on creating a client and engine for a my potofolio not using the Engine Program like a Unreal or Unity.
