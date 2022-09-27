@@ -22,6 +22,7 @@
 ### -Hardware Handled
 <img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white">
 <img src="https://img.shields.io/badge/ARM-0091BD?style=flat&logo=Arm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032style=flat&logo=Git&logoColor=white"/>
 ### -Experienced Tool
 
 
