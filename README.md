@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/ARM-0091BD?style=flat&logo=Arm&logoColor=white"/>
  -Experienced Tool
 <img src="https://img.shields.io/badge/Git-F05032style=flat&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-41CD52=flat&logo=QT&logoColor=white"/>
+<img src="https://img.shields.io/badge/QT-41CD52=flat&logo=QT&logoColor=white"/>
 
 
 
