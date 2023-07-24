@@ -1,40 +1,24 @@
-### Hi, Im a Game Client Developer Paul.👋
+### 안녕하세요. 게임 클라이언트 프로그래머 이현학입니다.
 
-- 🌱 I’m currently learning as an engineer at a DirectX.
-- I'm learning on creating a client and engine for a my potofolio not using the Engine Program like a Unreal or Unity.
--  First, I made a 2D GameProgram based on a Win32. Link below if you want to watching Click Here! 
--   https://studio.youtube.com/video/NHjY63-xXRo/edit 
--   Second,A MFC Tool which defined a Gamecharacter motion using a Cube made of vertex. 
--   https://studio.youtube.com/video/gC9JcvqgFzQ/edit
+- 윈도우 API 포트폴리오
+- https://www.youtube.com/watch?v=NHjY63-xXRo&t=1102s
+- 다이렉트X 11 2.5D 포트폴리오
+- https://www.youtube.com/watch?v=e1Ls-DCqoDo&t=718s
+- 다이렉트X 11 3D 포트폴리오
   
-- My Book list reading on current time.
-- Intoroducing 3d-game-programming-with-directx-11(Done) 
-- 열혈 자료구조(Done)
-- 뇌를 자극하는 알고리즘(Done) 
-- 뇌를 자극하는 운영체제(Done)
-- 문제해결력을 높이는 알고리즘과 자료구조(Done)
-- 프로그래밍 대회에서 배우는 알고리즘 문제해결전략 (Progress)
-- Intoroducing 3d-game-programming-with-directx-12 
-- Professional C++ (Marc Gregoire) (z-lib.org) 
-- Introduction to Algorithms, fourth edition (Thomas H. Cormen, Charles E. Leiserson etc.) (z-lib.org)
-- 윤성우의 TCP/IP(Progress)
+- 도서 내역
+- Intoroducing 3d-game-programming-with-directx-11(완료) 
+- 열혈 자료구조(완료)
+- 뇌를 자극하는 알고리즘(완료) 
+- 뇌를 자극하는 운영체제(완료)
+- 문제해결력을 높이는 알고리즘과 자료구조(완료)
+- 프로그래밍 대회에서 배우는 알고리즘 문제해결전략 (진행)
+- 윤성우의 TCP/IP(진행)
 
-### -Experienced Language 
+### -언어역량
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
-### -Hardware Handled
-<img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white">
-<img src="https://img.shields.io/badge/ARM-0091BD?style=flat&logo=Arm&logoColor=white"/>
- -Experienced Tool
+ -경험 툴
 <img src="https://img.shields.io/badge/Git-F05032style=flat&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/SVN-F05032style=flat&logo=SVN&logoColor=white">
 <img src="https://img.shields.io/badge/QT-41CD52=flat&logo=QT&logoColor=white"/>
-
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Sengin a mail to gushak116@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
