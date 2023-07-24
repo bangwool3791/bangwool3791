@@ -6,7 +6,9 @@
 - https://www.youtube.com/watch?v=e1Ls-DCqoDo&t=718s
 ### 다이렉트X 11 3D 포트폴리오
 - https://www.youtube.com/watch?v=AvW__Ea44_Q&t=21s
-  
+### 언리얼 학습 영상
+- https://www.youtube.com/watch?v=99Jv_w2Fnjc
+- 
 ### 도서 내역
 - Intoroducing 3d-game-programming-with-directx-11(완료) 
 - 열혈 자료구조(완료)
