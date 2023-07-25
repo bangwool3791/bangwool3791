@@ -16,7 +16,7 @@
 - 뇌를 자극하는 운영체제(완료)
 - 문제해결력을 높이는 알고리즘과 자료구조(완료)
 - 프로그래밍 대회에서 배우는 알고리즘 문제해결전략 (진행)
-- 윤성우의 TCP/IP(진행)
+- 윤성우의 TCP/IP(완료)
 
 ### 언어역량
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
